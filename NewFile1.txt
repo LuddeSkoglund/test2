@@ -3,3 +3,5 @@ Made some changes
 Made some more changes
 fix error message
 Create login
+feature 2
+feature 2 again
